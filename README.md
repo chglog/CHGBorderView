@@ -1,2 +1,3 @@
 # CHGBorderView
 给view画个边框
+当你的tableview列表（或者多个View）作为一个整体需要一个大的圆角边框时，或者tableview的某一组数据需要做圆角边框时，可使用此轮子实现
